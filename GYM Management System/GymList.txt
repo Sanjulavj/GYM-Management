@@ -1,0 +1,9 @@
+d0001	Hapu	02/08/2019	Default	null	0752345678	null
+d0002	Perera	28/08/2019	Default	null	0763456098	null
+s0001	Sahan	01/10/2019	Student	Nalanda	0786789098	null
+a0001	Jagath	12/10/2019	Over60	null	0712345678	67
+d0003	Eshan	08/01/2020	Default	null	0754546789	null
+s0002	Malith	09/01/2020	Student	Ananda	0785623456	null
+a0002	Sanath	15/01/2020	Over60	null	0773265887	61
+a0003	Mahela	20/01/2020	Over60	null	0789976456	63
+d0005	Sahan	08/08/2020	Default	null	0756787567	null

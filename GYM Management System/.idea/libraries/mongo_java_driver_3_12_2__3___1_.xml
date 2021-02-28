@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mongo-java-driver-3.12.2 (3) (1)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mongo-java-driver-3.12.2 (3) (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongo4idea/lib/bson-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongo4idea/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongo4idea/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongo4idea/lib/mongo4idea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongo4idea/lib/mongodb-driver-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mongo4idea/lib/mongodb-driver-core-3.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
